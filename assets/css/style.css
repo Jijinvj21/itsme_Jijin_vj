@@ -1184,3 +1184,26 @@ section .container {
 .credits a:hover {
   color: #fff;
 }
+
+
+
+
+.download-btn {
+  background-color: rgb(24 208 109);
+  border: none;
+  color: white;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 5px;
+  /* font-size: 36px; */
+    font-weight: 700;
+    font-family: "Poppins", sans-serif;
+}
+.download-btn:hover {
+  background-color: #3e8e41; /* Changes the background color to a darker shade of green on hover */
+}
